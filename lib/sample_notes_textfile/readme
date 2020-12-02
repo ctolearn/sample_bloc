@@ -1,0 +1,7 @@
+added library
+  xml: ^4.5.1
+  http: ^0.12.2
+output
+  xml
+
+stateful may initState at dispose ang stateless kadalasan ginagamit para sa mga ui sa ibang class kasi pag isang straight file matagal daw i load ang file
